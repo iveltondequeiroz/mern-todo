@@ -9,6 +9,7 @@
   "author": "Ivelton Queiroz",
   "license": "ISC",
   "dependencies": {
-    "graphql-yoga": "^1.16.7"
+    "graphql-yoga": "^1.16.7",
+    "mongoose": "^5.3.5"
   }
 }
